@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'sinatra', '2.1.0'
 gem 'rerun',   '0.13.1'
 gem 'thin'
+gem 'andyh82_palindrome'
 
 group :test do
   gem 'minitest',           '5.14.2'
